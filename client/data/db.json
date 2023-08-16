@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 28,
+      "userId": 1,
+      "name": "poissss",
+      "price": "23",
+      "description": "good pr",
+      "itemImg": "assets/Dg.jpg",
+      "brand": "IMAGE"
+    },
+    {
+      "id": 29,
+      "userId": 1,
+      "name": "piko",
+      "price": "231",
+      "description": "good pr",
+      "itemImg": "assets/Dg.jpg",
+      "brand": "IMAGE"
+    }
+  ],
+  "cart": [
+    {
+      "id": 28,
+      "userId": 1,
+      "name": "poissss",
+      "price": "23",
+      "amount": 3,
+      "itemImg": "assets/Dg.jpg",
+      "description": "good pr",
+      "brand": "IMAGE"
+    }
+  ]
+}
